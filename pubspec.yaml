@@ -2,7 +2,7 @@ name: date_time_text_form_field
 description: A date and time picker form field. It support from operations such as validate, save and changed. You can change its display format by setting parameter format.
 version: 0.0.1
 author:
-homepage: https://github.com/gustavofagundespaixao/time_text_form_field
+homepage: https://github.com/gustavofagundespaixao/date_time_text_form_field
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
